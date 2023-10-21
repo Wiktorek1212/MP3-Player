@@ -14,4 +14,4 @@
   - Tkinter for crafting a user-friendly GUI.
   - yt_dlp for the YouTube downloading functionality.
   - mutagen.mp3 for managing and reading MP3 metadata.
-
+![mp3](https://github.com/wiktorszczurek/MP3-Player-PY/assets/124889327/198f0687-e0d8-4589-9b75-79e26c3538fc)
